@@ -39,7 +39,10 @@ public class Sel_Dropdown2 {
 		System.out.println(driver.findElement(By.id("divpaxinfo")).getText());
 		driver.close();
 		System.out.println("Successfully logged");
-
+		System.out.println("Github");
+		System.out.println("github 2");
+		System.out.println("Successfully logged");
+		
 	}
 
 }
