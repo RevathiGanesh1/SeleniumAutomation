@@ -25,6 +25,7 @@ public class staticdropdownwithselect {
 		System.out.println(dropdown.getFirstSelectedOption().getText());
 		dropdown.selectByValue("INR");
 		System.out.println(dropdown.getFirstSelectedOption().getText());
+		System.out.println("This is executed successfully");
 
 	}
 
